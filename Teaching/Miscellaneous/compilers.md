@@ -24,7 +24,7 @@ Upon completing this task, you will acquire a deep insight into the intricate pr
 ## Resources
 
 - [Crafting interpreters](https://craftinginterpreters.com/contents.html)
-- [An introduction to compilers](https://nicoleorchard.com/blog/compilers/)
+- [An introduction to compilers](https://medium.com/@norchard/an-intro-to-compilers-964aaf9d3534)
 - [Optimisations in C++ compilers](https://queue.acm.org/detail.cfm?id=3372264)
 - [LLVM Tutorials](https://llvm.org/docs/tutorial/)
 - [Numba, a python JIT](http://numba.pydata.org/)
